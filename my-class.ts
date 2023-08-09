@@ -2,4 +2,4 @@ export class MyClass {
 }
 
 
-// some class
+// some class which changed
